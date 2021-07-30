@@ -17,11 +17,15 @@ Hi, I'm Shravan, a passionate self-taught FrontEnd And Backend developer from In
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](github-readme-stats.vercel.app)*
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shravanmeena&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravanmeena&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Shravan's github stats" />
 </a>
+
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shravanmeena&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
 
 
