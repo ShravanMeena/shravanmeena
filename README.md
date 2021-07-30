@@ -21,7 +21,8 @@ Hi, I'm Shravan, a passionate self-taught FrontEnd And Backend developer from In
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravanmeena&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Shravan's github stats" />
 </a>
-
+<br/>
+<br/>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shravanmeena&theme=dark&hide_border=true)](https://git.io/streak-stats)
