@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there, I'm [Shavan!](https://www.pakkamarwadi.tk/) 👋
 
-<!--
-**ShravanMeena/shravanmeena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Shravan, a passionate self-taught FrontEnd And Backend developer from India.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on NextJs
+- 🌱 I’m currently learning Typescript
+<!-- - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) -->
+- 💬 Ask me about anything [here](https://www.instagram.com/shravanmeena99/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](github-readme-stats.vercel.app)*
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shravanmeena&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravanmeena&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Shravan's github stats" />
+</a>
+
+
