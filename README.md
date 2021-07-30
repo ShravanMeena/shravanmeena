@@ -2,7 +2,7 @@
 
 Hi, I'm Shravan, a passionate self-taught FrontEnd And Backend developer from India.
 
-- 🔭 I’m currently working on NextJs
+- 🔭 I’m currently working on ReactJs And React Native
 - 🌱 I’m currently learning Typescript
 <!-- - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) -->
 - 💬 Ask me about anything [here](https://www.instagram.com/shravanmeena99/)
