@@ -1,6 +1,6 @@
 ### Hi there, I'm [Shavan!](https://www.pakkamarwadi.tk/) 👋
 
-Hi, I'm Shravan, a passionate self-taught FrontEnd And Backend developer from India.
+Hi, I'm Shravan, a passionate self-taught Full Stack developer from India.
 
 - 🔭 I’m currently working on ReactJs And React Native
 - 🌱 I’m currently learning Typescript
