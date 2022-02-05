@@ -6,7 +6,7 @@
 - 🔭 A passionate self-taught Full Stack developer from India.
 - 👀 I’m love ...coding
 - 🌱 I’m currently learning Node, Express & MongoDb
-- 📫 My Portfolio Link :[Shravanmeena](https://www.pakkamarwadi.tk/
+- 📫 My Portfolio Link :[Shravanmeena](https://shravanmeena.netlify.app/)
 
 <!---
 shravanmeena/shravanmeena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
