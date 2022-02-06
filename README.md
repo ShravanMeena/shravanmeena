@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
  <details>
 <summary>CV Maker </summary>
   
-  1. Live Demo:cvmaker0799.netlify.app/
+  1. Live Demo: https://www.cvmaker0799.netlify.app/
   2. Technology: HTML, CSS,AntD, React, React-Router, Node, MongoDB, Express
  </details>
  
@@ -66,21 +66,21 @@ You can click the Preview link to take a look at your changes.
   
 <summary>Exam Preparation Notes,Books </summary>
   
-  1. Live Demo:examhint.netlify.app/
+  1. Live Demo: https://www.examhint.netlify.app/
   2. Technology: HTML, CSS, React, React-Router, Node, MongoDB, Express
  </details>
  
   <details>
 <summary>Ecommerce </summary>
   
-  1. Live Demo: ecommerce0799.herokuapp.com/
+  1. Live Demo:  https://www.ecommerce0799.herokuapp.com/
   2. Technology:: HTML, CSS, React, React-Router, Node, MongoDB, Express
  </details>
  
   <details>
 <summary> Freelancing Website </summary>
   
-  1. Live Demo:freelancer0799.netlify.app/
+  1. Live Demo: https://www.freelancer0799.netlify.app/
   2. Technology:HTML, CSS, React, React-Router, Node, MongoDB, Express
  </details>
   ****
