@@ -5,7 +5,8 @@
 - 👋 Hi, I’m Shravan Meena
 - 🔭 A passionate self-taught Full Stack developer from India.
 - 👀 I’m love ...coding
-- 🌱 I’m currently learning Node, Express & MongoDb
+- 🌱 I’m currently working on my personality development.
+- - 🌱 I’m currently working at KHELGULLY as a FRONTEND DEVELOPER.
 - 📫 My Portfolio Link :[Shravanmeena](https://shravanmeena.netlify.app/)
 
 <!---
