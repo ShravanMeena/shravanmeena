@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 <details>
 <summary>DevHelp Box </summary>
   
-  1. Live Demo: shravanmeena.github.io/devhelpbox/
+  1. Live Demo: https://shravanmeena.github.io/DevHelpBox/
   2. Technology: Github
  </details>
  
