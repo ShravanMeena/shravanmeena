@@ -40,8 +40,24 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# 🚀 Some Projects
+<br>
 
+## 🚀 Works
+
+Always curious about new ideas to create highly satisfying user interfaces, passionate on minimalism, and asthetic vibes. Here are the popular products I've created with React, Next.JS, TypeScript, and Tailwind.
+
+| Project           | Description                                                  | URL                                                          |
+| ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Khelgully**        | Create quality broswer mockups for product presentations.    | [iframe.so](https://iframe.so/)                              |
+| **Slayoncube**     | Open source collection of developer cheatsheets.             | [codehouse.vercel.app](https://codehouse.vercel.app/)        |
+| **Coco - Soul**        | Visual tool for creating beautiful blog cover images.        | [slickr.vercel.app](https://slickr.vercel.app/)              |
+| **Monorbit**     | 24/7 Lofi music to help you learn or study for productively.   | [loficlub.vercel.app](https://loficlub.vercel.app/)          |
+
+<br>
+
+
+
+# 🚀 Some Projects
 
 <details>
 <summary>DevHelp Box </summary>
