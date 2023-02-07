@@ -44,7 +44,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 🚀 Works
 
-Always curious about new ideas to create highly satisfying user interfaces, passionate on minimalism, and asthetic vibes. Here are the popular products I've created with React, Next.JS, TypeScript, and Tailwind.
 
 | Project           | Description                                                  | URL                                                          |
 | ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
