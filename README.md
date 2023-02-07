@@ -48,10 +48,11 @@ Always curious about new ideas to create highly satisfying user interfaces, pass
 
 | Project           | Description                                                  | URL                                                          |
 | ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Khelgully**        | Create quality broswer mockups for product presentations.    | [iframe.so](https://iframe.so/)                              |
-| **Slayoncube**     | Open source collection of developer cheatsheets.             | [codehouse.vercel.app](https://codehouse.vercel.app/)        |
-| **Coco - Soul**        | Visual tool for creating beautiful blog cover images.        | [slickr.vercel.app](https://slickr.vercel.app/)              |
-| **Monorbit**     | 24/7 Lofi music to help you learn or study for productively.   | [loficlub.vercel.app](https://loficlub.vercel.app/)          |
+| **Khelgully WEB**          | [khelgully.com](https://khelgully.com/)                              |
+| **Khelgully APP**          | [Download khelgully APK](https://khelgully.com/apk1)                              |
+| **Slayoncube**            | [codehouse.vercel.app](https://play.google.com/store/search?q=oncube&c=apps)        |
+| **Mycocosoul**               | [mycocosoul.com](https://mycocosoul.com/)              |
+| **Monorbit**       | [Monorbit](https://www.linkedin.com/company/buzycube/)          |
 
 <br>
 
