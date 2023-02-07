@@ -48,11 +48,11 @@ Always curious about new ideas to create highly satisfying user interfaces, pass
 
 | Project           | Description                                                  | URL                                                          |
 | ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Khelgully WEB**          | [khelgully.com](https://khelgully.com/)                              |
-| **Khelgully APP**          | [Download khelgully APK](https://khelgully.com/apk1)                              |
-| **Slayoncube**            | [codehouse.vercel.app](https://play.google.com/store/search?q=oncube&c=apps)        |
-| **Mycocosoul**               | [mycocosoul.com](https://mycocosoul.com/)              |
-| **Monorbit**       | [Monorbit](https://www.linkedin.com/company/buzycube/)          |
+| **Khelgully WEB**         | - | [khelgully.com](https://khelgully.com/)                              |
+| **Khelgully APP**      |   - | [Download khelgully APK](https://khelgully.com/apk1)                              |
+| **Slayoncube**          |  - | [Download Oncube APK](https://play.google.com/store/search?q=oncube&c=apps)        |
+| **Mycocosoul**           |  -  | [mycocosoul.com](https://mycocosoul.com/)              |
+| **Monorbit**       | - | [Monorbit](https://www.linkedin.com/company/buzycube/)          |
 
 <br>
 
