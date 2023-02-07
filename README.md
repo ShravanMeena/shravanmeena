@@ -78,7 +78,6 @@ You can click the Preview link to take a look at your changes.
   1. Live Demo: https://www.freelancer0799.netlify.app/
   2. Technology:HTML, CSS, React, React-Router, Node, MongoDB, Express
  </details>
-  ****
 
 
 ![shravanmeena's GitHub stats](https://github-readme-stats.vercel.app/api?username=shravanmeena&show_icons=true&theme=radical)
