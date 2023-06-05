@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Shravan Meena
 - 🔭 A passionate self-taught Full Stack developer from India.
-- 👀 I’m love ...coding
+- 👀 I love ...coding
 - 🌱 I’m currently working on my personality development.
 - - 🌱 I’m currently working at [KHELGULLY](https://khelgully.com/) as a LEAD FRONTEND DEVELOPER.
 - 📫 My Portfolio Link :[Shravanmeena](https://shravanmeena.netlify.app/)
