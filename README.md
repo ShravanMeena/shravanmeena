@@ -6,7 +6,7 @@
 - 🔭 A passionate self-taught Full Stack developer from India.
 - 👀 I love ...coding
 - 🌱 I’m currently working on my personality development.
-- - 🌱 I’m currently working at [KHELGULLY](https://khelgully.com/) as a LEAD FRONTEND DEVELOPER.
+- - 🌱 I’m pastly working at [KHELGULLY](https://khelgully.com/) as a LEAD FRONTEND DEVELOPER.
 - 📫 My Portfolio Link :[shravanmeena.com](https://shravanmeena.com/)
 - 📫 Best Community for beginners :[DevHelpBox](https://shravanmeena.github.io/DevHelpBox/)
 
