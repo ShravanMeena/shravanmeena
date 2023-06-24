@@ -7,7 +7,7 @@
 - 👀 I love ...coding
 - 🌱 I’m currently working on my personality development.
 - - 🌱 I’m currently working at [KHELGULLY](https://khelgully.com/) as a LEAD FRONTEND DEVELOPER.
-- 📫 My Portfolio Link :[Shravanmeena](https://shravanmeena.netlify.app/)
+- 📫 My Portfolio Link :[shravanmeena.com](https://shravanmeena.com/)
 - 📫 Best Community for beginners :[DevHelpBox](https://shravanmeena.github.io/DevHelpBox/)
 
 <!---
