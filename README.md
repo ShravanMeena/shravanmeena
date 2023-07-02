@@ -18,13 +18,13 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-## 🚀 Works
+## 🚀 Companies I've Worked With
 
 
 | Project           | Description                                                  | URL                                                          |
 | ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Khelgully WEB**         | - | [khelgully.com](https://khelgully.com/)                              |
-| **Khelgully APP**      |   - | [Download khelgully APK](https://khelgully.com/apk1)                              |
+| **Pillow Fund**         | - | [Pillow.fund](https://www.pillow.fund/)                              |
+| **Khelgully**         | - | [khelgully.com](https://khelgully.com/)                              |
 | **Slayoncube**          |  - | [Download Oncube APK](https://play.google.com/store/search?q=oncube&c=apps)        |
 | **Mycocosoul**           |  -  | [mycocosoul.com](https://mycocosoul.com/)              |
 | **Monorbit**       | - | [Monorbit](https://www.linkedin.com/company/buzycube/)          |
