@@ -6,16 +6,15 @@
 - 🔭 A passionate self-taught Full Stack developer from India.
 - 👀 I love ...coding
 - 🌱 I’m currently working on my personality development.
-- - 🌱 I’m pastly working at [KHELGULLY](https://khelgully.com/) as a LEAD FRONTEND DEVELOPER.
+  - 🌱 I’m currently working at [PILLOW](https://www.pillow.fund/) as a REACT NATIVE DEVELOPER.
+  - 🌱 I’m pastly working at [KHELGULLY](https://khelgully.com/) as a LEAD FRONTEND DEVELOPER.
 - 📫 My Portfolio Link :[shravanmeena.com](https://shravanmeena.com/)
-- 📫 Best Community for beginners :[DevHelpBox](https://shravanmeena.github.io/DevHelpBox/)
 - 😱 I have pinned some of my best projects (Scroll and see)
 
 <!---
 shravanmeena/shravanmeena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 
 
 <br>
