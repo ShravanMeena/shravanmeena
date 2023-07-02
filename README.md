@@ -2,12 +2,11 @@
 
 
 
-- 👋 Hi, I’m Shravan Meena
+# 👋 Hi, I’m Shravan Meena
 - 🔭 A passionate self-taught Full Stack developer from India.
 - 👀 I love ...coding
-- 🌱 I’m currently working on my personality development.
-  - 🌱 I’m currently working at [PILLOW](https://www.pillow.fund/) as a REACT NATIVE DEVELOPER.
-  - 🌱 I’m pastly working at [KHELGULLY](https://khelgully.com/) as a LEAD FRONTEND DEVELOPER.
+- 🧑‍💻 I’m currently working at [PILLOW](https://www.pillow.fund/) as a REACT NATIVE DEVELOPER.
+- 🧑‍💻 I’m pastly working at [KHELGULLY](https://khelgully.com/) as a LEAD FRONTEND DEVELOPER.
 - 📫 My Portfolio Link :[shravanmeena.com](https://shravanmeena.com/)
 - 😱 I have pinned some of my best projects (Scroll and see)
 
@@ -34,6 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
+<!--
 # 🚀 Some Projects
 
 <details>
@@ -78,6 +78,7 @@ You can click the Preview link to take a look at your changes.
   1. Live Demo: https://www.freelancer0799.netlify.app/
   2. Technology:HTML, CSS, React, React-Router, Node, MongoDB, Express
  </details>
+-->
 
 
 ![shravanmeena's GitHub stats](https://github-readme-stats.vercel.app/api?username=shravanmeena&show_icons=true&theme=radical)
