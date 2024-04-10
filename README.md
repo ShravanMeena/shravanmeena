@@ -21,9 +21,9 @@ You can click the Preview link to take a look at your changes.
 ## 🚀 Companies I've Worked With
 
 
-| Project           | Description                                                  | URL                                                          |
+| Company           | Description                                                  | URL                                                          |
 | ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Pillow Fund**         | - | [Pillow.fund](https://www.pillow.fund/)                              |
+| **Symita INC**         | - | [symita.com](https://symita.com/)                              |
 | **Khelgully**         | - | [khelgully.com](https://khelgully.com/)                              |
 | **Slayoncube**          |  - | [Download Oncube APK](https://play.google.com/store/search?q=oncube&c=apps)        |
 | **Mycocosoul**           |  -  | [mycocosoul.com](https://mycocosoul.com/)              |
