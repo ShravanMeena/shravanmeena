@@ -7,7 +7,7 @@
 - 👀 I love ...coding
 - 🧑‍💻 I’m currently working at [SYMITA INC](https://symita.com/) as a LEAD FRONTEND DEVELOPER.
 - 🧑‍💻 I’m pastly working at [KHELGULLY](https://khelgully.com/) as a LEAD FRONTEND DEVELOPER.
-- 📫 My Portfolio Link :[shravanmeena.com](https://shravanmeena.com/)
+- 📫 My Portfolio Link : [shravanmeena.com](https://shravanmeena.com/)
 - 😱 I have pinned some of my best projects (Scroll and see)
 
 <!---
